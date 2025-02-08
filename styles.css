@@ -1,0 +1,43 @@
+body {
+    font-family: 'Lora', serif;
+    background-color: #f0f1ff; /* Softer, cleaner warm cream */
+    line-height: 1.6;
+    color: #3D3D3D; /* Dark gray for readability */
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.Pagetitle {
+    text-align: center;
+    background: #222a9b; 
+    color: #bbb0bb; 
+    padding: 20px;
+    border-radius: 12px; 
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+.hobbies, .intro, .courseReasons, .fact, .degreeReasons, .contact {
+    background: #daeaf8; /* Warmer ivory */
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.05);
+}
+
+h2 {
+    color: #222a9b; /* Matches the header for consistency */
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+li {
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
