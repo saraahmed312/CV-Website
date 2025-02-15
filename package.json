@@ -2,14 +2,14 @@
   "name": "CV-Website",
   "version": "1.0.0",
   "scripts": {
-    "build": "echo 'No build required'",
-    "start": "http-server ./"
+    "build": "echo 'No build step for static site'"
   },
+  "start": "http-server ./",
   "dependencies": {
     "http-server": "^14.1.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/CV-Website.git"
+    "url": "https://github.com/saraahmed312/CV-Website.git"
   }
 }
